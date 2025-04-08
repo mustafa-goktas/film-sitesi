@@ -1,4 +1,4 @@
-# Film Sitesi Projesi
+# movie-web
 
 Merhaba! Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş, tamamen duyarlı (full responsive) bir film sitesi tasarımını içermektedir. Güzel ve gösterişli bir arayüz sunmak amacıyla hover efektleri eklenmiş ve modern web tasarım teknikleri kullanılmıştır.
 
